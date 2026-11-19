@@ -1,0 +1,2 @@
+# Hazard_Aware_Curriculum_PPO_for_Near_Perfect_Coverage_and_Disaster_Relief_with_Autonomous_UAV_Swarms
+Multi-UAV coverage and disaster relief with PPO. Five drones learn to map a 100×100 m area, dodging buildings, birds, wind and each other, while managing fuel and returning to base. Features a custom Gymnasium env, 4-phase curriculum, lethal-collision lives schedule, 50 reproducible test scenarios and replay rendering.
